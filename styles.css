@@ -13,3 +13,7 @@
 .list01 {
     font-weight: 600;
 }
+
+ol, ul {
+    font-size: 24px;
+}
