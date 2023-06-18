@@ -33,3 +33,8 @@ h2,
 h3 {
     font-size: 36px;
 }
+
+.color_me {
+    animation: rainbow 10s linear infinite;
+    background: #ff0;
+}
