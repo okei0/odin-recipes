@@ -17,3 +17,10 @@
 ol, ul {
     font-size: 24px;
 }
+
+.goHome {
+    background-color: #34FF56;
+    color: white;
+    font-family: Verdana, sans-serif;
+    font-size: 42px;
+}
