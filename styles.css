@@ -45,3 +45,7 @@ h3 {
     text-align: center;
 }
 
+.roundedBorder {
+    border-radius: 25px;
+}
+
