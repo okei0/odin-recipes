@@ -7,7 +7,9 @@
     color: #FFC934;
     font-weight: 800;
     font-family: Verdana, Tahoma, sans-serif;
-    font-size: 100px;
+    font-size: 60px;
+    margin: 40px auto;
+    text-align: center;
 }
 
 .list01 {
@@ -30,14 +32,16 @@ h3 {
     font-size: 36px;
 }
 
-.color_me {
-    animation: rainbow 10s linear infinite;
-    background: #ff0;
-}
-
 .card {
     width: 400px;
     background-color: #FBFFAB;
     margin: 20px auto;
+}
+
+.ingredientsLs {
+    width: 800px;
+    margin: 20px auto;
+    background-color: #FFE5AB;
+    text-align: center;
 }
 
