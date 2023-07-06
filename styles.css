@@ -36,6 +36,8 @@ h3 {
 }
 
 .card {
-    background-color: #FF8134;
+    width: 400px;
+    background-color: #FBFFAB;
+    margin: 20px auto;
 }
 
