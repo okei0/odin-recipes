@@ -41,6 +41,7 @@ h3 {
 .ingredientsLs {
     width: 800px;
     margin: 20px auto;
+    padding: 10px;
     background-color: #FFE5AB;
     text-align: center;
 }
